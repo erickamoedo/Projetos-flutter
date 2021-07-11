@@ -11,3 +11,7 @@ A new Flutter project.
 - instalar android studio ou usar o VScode
 
 
+
+11/07/2021
+
+- Pesquisar sobre estrutura flutter

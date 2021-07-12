@@ -25,3 +25,4 @@ Soluçoes de alguns bugs:
 - Vi na plataforma allura que tem a formação em flutter, é bem legal pq eles são lideres de mercado, comunidade boa. Falam sobre persistencia de dados, analytics crash...
 - Li sobre o que mudou na versão do Flutter 2: Agora você coda tambem para app desktop (versao beta), pode criar sites tambem com flutter, e o Ubuntu + Toyta anunciaram parceria.
 - Lancaram tambem na versao 2 do flutter o Safety null, pra nao quebrar layout + opcoes diretas de Google Ads para voce monetizar seu app
+- validação de formularios: https://www.alura.com.br/curso-online-flutter-criacao-validacao-formularios-aumentar-conversoes

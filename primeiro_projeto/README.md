@@ -10,14 +10,12 @@ A new Flutter project.
 - flutter doctor: comando para ver se está tudo ok
 - instalar android studio ou usar o VScode
 
-
-
 10/07/2021
 
 Soluçoes de alguns bugs:
+
 - ADB not found: https://www.youtube.com/watch?v=sCY1VSmTlfA
 - Crash emulator: https://www.youtube.com/watch?v=sBaH9xMDVyc
-
 
 11/07/2021
 
@@ -27,3 +25,8 @@ Soluçoes de alguns bugs:
 - Lancaram tambem na versao 2 do flutter o Safety null, pra nao quebrar layout + opcoes diretas de Google Ads para voce monetizar seu app
 - validação de formularios: https://www.alura.com.br/curso-online-flutter-criacao-validacao-formularios-aumentar-conversoes
 - Material interessante sobre fast code layouts: https://www.youtube.com/c/TheFlutterWay/videos?view=0&sort=p&flow=grid
+
+12/07/2021
+
+- Criar um projeto: flutter create NOME
+- entrar na pasta e usar o: flutter run

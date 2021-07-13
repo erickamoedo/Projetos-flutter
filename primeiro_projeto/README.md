@@ -31,3 +31,8 @@ Soluçoes de alguns bugs:
 13/07/2021
 
 - Estudo comparativo sobre React Native vs Flutter
+
+13/07/2021
+
+- Estudo comparativo sobre React Native vs Flutter
+- quando der erro de merge: https://stackoverflow.com/questions/36086202/git-merge-is-not-possible-because-i-have-unmerged-files

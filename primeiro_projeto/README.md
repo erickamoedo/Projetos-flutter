@@ -27,3 +27,7 @@ Soluçoes de alguns bugs:
 - Lancaram tambem na versao 2 do flutter o Safety null, pra nao quebrar layout + opcoes diretas de Google Ads para voce monetizar seu app
 - validação de formularios: https://www.alura.com.br/curso-online-flutter-criacao-validacao-formularios-aumentar-conversoes
 - Material interessante sobre fast code layouts: https://www.youtube.com/c/TheFlutterWay/videos?view=0&sort=p&flow=grid
+
+13/07/2021
+
+- Estudo comparativo sobre React Native vs Flutter

@@ -35,4 +35,8 @@ Soluçoes de alguns bugs:
 - Comprei um curso na Udemy que explica sobre adobe XD + API + nodeJs + React Native
 - Instalei o adobe XD e analisei projetos prontos no theme forest, porém adobe crackeado nao gera link online.
 
+14/07/2021
 
+- Limpar projeto flutter desse diretorio e renomear para app Amar deixando privado.
+- Subir preview do pedro para esse repositorio em uma pasta
+- testar api da udemu curso

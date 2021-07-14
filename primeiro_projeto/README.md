@@ -31,8 +31,8 @@ Soluçoes de alguns bugs:
 13/07/2021
 
 - Estudo comparativo sobre React Native vs Flutter
+- Quando der erro de merge: https://stackoverflow.com/questions/36086202/git-merge-is-not-possible-because-i-have-unmerged-files
+- Comprei um curso na Udemy que explica sobre adobe XD + API + nodeJs + React Native
+- Instalei o adobe XD e analisei projetos prontos no theme forest, porém adobe crackeado nao gera link online.
 
-13/07/2021
 
-- Estudo comparativo sobre React Native vs Flutter
-- quando der erro de merge: https://stackoverflow.com/questions/36086202/git-merge-is-not-possible-because-i-have-unmerged-files
